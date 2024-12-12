@@ -1,20 +1,21 @@
-### 
-* 👂 My name is ...
-* 👩 Pronouns: ...
-* 🔭 I’m currently working on ...
-* 🌱 I’m currently learning ...
-* 🤝 I’m looking to collaborate on ...
-* 🤔 I’m looking for help with ...
-* 💬 Ask me about ...
-* 📫 How to reach me: ...
-  ```yaml
-  name: Evan Nichols
-  ❤️ I love: ...
-  ⚡ Fun fact: ...
+# 'Sup Choom
+### 🌱 I’m currently learning about `Cybersecurity and ethical hacking`
 
-  hobbies: ["", ""]
-  ```
-
+#### Some Info About Me
+```yaml
+name: Evan Nichols
+current_job: Software Engineer
+experience: ~2.5 working years
+alumnus: |
+  Mesa College, San Diego
+  Charles University, Prague
+fields_of_interest:
+- Web Development
+- Game Design
+- Security
+languages: ['English', 'Czech (learning)']
+hobbies: ['Cooking', 'Gaming', 'D&D']
+```
 
 <h2> :flashlight: &nbsp;Tools I've Used</h2>
 <p align="left">
@@ -41,6 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" alt="insomnia" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="jira" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg" alt="confluence" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" alt="godot" width="45" height="45"/>
   <!-- https://devicon.dev/ -->
 </p>
 
