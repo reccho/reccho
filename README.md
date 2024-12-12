@@ -18,8 +18,6 @@ languages: ['English', 'Czech (learning)']
 hobbies: ['Cooking', 'Gaming', 'D&D']
 ```
 
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
-
 <h2> :flashlight: &nbsp;Tools I've Used</h2>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"  alt="c#" width="45" height="45"/>
