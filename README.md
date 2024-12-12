@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Hey%20Choom&fontSize=60&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=Hey%20Choom&fontSize=60&animation=fadeIn" />
 
 ### 🌱 I’m currently learning about `Cybersecurity and ethical hacking`
 
