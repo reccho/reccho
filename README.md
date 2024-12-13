@@ -18,6 +18,8 @@ languages: ['English', 'Czech (learning)']
 hobbies: ['Cooking', 'Gaming', 'D&D']
 ```
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=enichols619&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 <h2> :flashlight: &nbsp;Tools I've Used</h2>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"  alt="c#" width="45" height="45"/>
@@ -47,4 +49,4 @@ hobbies: ['Cooking', 'Gaming', 'D&D']
   <!-- https://devicon.dev/ -->
 </p>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=enichols619&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reccho&layout=compact)
