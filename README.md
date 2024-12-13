@@ -49,4 +49,4 @@ hobbies: ['Cooking', 'Gaming', 'D&D']
   <!-- https://devicon.dev/ -->
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reccho&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reccho&layout=compact&theme=tokyonight)
