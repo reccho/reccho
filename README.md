@@ -6,7 +6,7 @@
 ```yaml
 name: Evan Nichols
 current_job: Software Engineer
-experience: ~2.5 working years
+experience: ~3 working years
 alumnus: |
   Mesa College, San Diego
   Charles University, Prague
